@@ -62,7 +62,7 @@ We also have a variable `offsetY` to make the value maskY usable. So when maskY 
 
 #### How is it animating?
 
-The animation is based on Android Animator API. I am not going to go through that part. Go read [the documentation](http://developer.android.com/guide/topics/graphics/prop-animation.html) if you need some explainations.
+The animation is based on Android Animator API. I am not going to go through that part. Go read [the documentation](http://developer.android.com/guide/topics/graphics/prop-animation.html) if you need some explanations.
 
 In this experiment there are 2 animations.
 - One is moving the wave horizontally from 0 to 200 (the width of the wave bitmap).
