@@ -1,5 +1,7 @@
 # Titanic for Android
 
+This library is DEPRECATED, as I don't have time to mainatin it anymore. But feel free to go through the code and copy that into your project, it still does its job.
+
 Titanic is an Android experiment reproducing [this effect](http://codepen.io/lbebber/pen/xrwja).
 
 ![ScreenShot](titanic.gif)
