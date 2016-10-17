@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Transcend/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-5f661137cdfc582f94ca863e4c0058453bfcd481.jar" />
+    </item>
+    <item
+        jar="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-db8491f0932474177d9efdbc1eac979d2772c94a.jar" />
+    </item>
+    <item
+        jar="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/exploded-aar/Project_Titanic/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f236a8497f309170d79ba91a89d02d9b15272c7e">
+        <dex dex="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/pre-dexed/debug/classes-ca82153b0abec2d0539d1a59a978eaff856080fa.jar" />
+    </item>
+    <item
+        jar="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/pre-dexed/debug/classes-10f3b19d2dfa2e076d19014fb9b4347181e0922e.jar" />
+    </item>
+    <item
+        jar="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/pcqpcq/Work/IdeaProjects/Project_Titanic/sample/build/intermediates/pre-dexed/debug/classes-24a0013009f613b900426c4e6ea3ce210f1636e9.jar" />
+    </item>
+
+</items>
